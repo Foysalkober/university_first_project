@@ -1,0 +1,1 @@
+docker build -t foysalfk/university_project:v2

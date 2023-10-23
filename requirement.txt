@@ -1,0 +1,3 @@
+azur-core
+azure-ai-formrecognizer
+python-maltipart
